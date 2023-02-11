@@ -8,17 +8,17 @@ export default defineConfig({
   titleTemplate: 'وبلاگ',
   description: '',
   // ignoreDeadLinks: true,
-  // themeConfig: {
-  //   siteTitle: '',
-  //   lastUpdatedText: 'آخرین بروز رسانی',
-  //   nav: [{ text: 'صفحه اصلی', link: '/' }],
-  //   socialLinks: [],
-  //   outlineTitle: 'در این صفحه',
-  //   logo: '/favicon.ico',
-  //   docFooter: {
-  //     prev: 'صفحه قبل',
-  //     next: 'صفحه بعد',
-  //   },
+  themeConfig: {
+    //   siteTitle: '',
+    //   lastUpdatedText: 'آخرین بروز رسانی',
+    //   nav: [{ text: 'صفحه اصلی', link: '/' }],
+    //   socialLinks: [],
+    outlineTitle: 'در این صفحه',
+    //   logo: '/favicon.ico',
+    //   docFooter: {
+    //     prev: 'صفحه قبل',
+    //     next: 'صفحه بعد',
+  },
   // sidebar: [
   //   {
   //     collapsible: true,
