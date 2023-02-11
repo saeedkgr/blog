@@ -1,0 +1,17 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:saeedkgr/blog.git",
+  "author": "saeed <saeedkgrb@yahoo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.45",
+    "vue": "^3.2.47"
+  },
+  "scripts": {
+    "ch:dev": "vitepress dev ch",
+    "ch:build": "vitepress build ch",
+    "ch:preview": "vitepress preview ch"
+  }
+}

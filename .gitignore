@@ -1,0 +1,8 @@
+node_modules/
+yarn-error.log
+# yarn.lock --comment out for github paged
+package-lock.json
+
+.vite/
+ch/.vitepress/dist/ 
+ch/.vitepress/cache/ 

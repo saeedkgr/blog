@@ -1,0 +1,21 @@
+body,
+nav,
+aside,
+header,
+.content,
+.VPLocalNav,
+.VPNavBarTitle {
+  background-image: url('/common/images/double-bubble-outline.jpg') !important;
+}
+.nobgi {
+  @apply bg-gray-50 !important;
+}
+/* .vp-doc {
+  @apply bg-white !important;
+} */
+.danger {
+  @apply bg-red-50 !important;
+}
+.warning {
+  @apply bg-gray-50 !important;
+}
