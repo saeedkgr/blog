@@ -1,3 +1,5 @@
+![bing logo](./bing.jfif)
+
 # جنگ هوش مصنوعی
 
 منابع مربوط به مطالب طرح شده در اتاق "خبر و کمی بیشتر" کلاب روزگار
@@ -5,8 +7,6 @@
 
 [لینک اتاق](https://www.clubhouse.com/room/PGpqpg2b?utm_medium=ch_room_xerc&utm_campaign=W5lC4aC-TBoT2kPIh5LLmg-584798)
 بخش مربوط به هوش مصنوعی از زمان 1:05:55 تا 1:20:30
-
-![bing logo](./bing.jfif)
 
 ## رونمایی مایکروسافت از بینگ
 
