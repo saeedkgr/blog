@@ -43,3 +43,10 @@ microsoft clippy and office assitant that discontinued
 ## مراسم گوگل (زنده از پاریس)
 
 [ویدیوی مراسم](https://www.youtube.com/watch?v=yLWXJ22LUEc)
+
+## دانلود نسخه آزمایشی مایکروسافت اج
+
+از این [لینک](https://www.microsoftedgeinsider.com/en-us/download)
+نسخه Dev Channel رو نصب کنید و از آیکون bing در صف انتظار قرار بگیرین
+
+## [راهنمای درست کردن کالکشن در Edge](./edgeHowToAddCollection/)
