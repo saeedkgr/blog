@@ -1,6 +1,6 @@
 ابتدا در قسمت بالا سمت راست آیکون collections
 
-![collections icon](./collections%20icon.png)
+![collections icon](./collections_icon.jpg)
 
 را کلیک میکنیم.
 
