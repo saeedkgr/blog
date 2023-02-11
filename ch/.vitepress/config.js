@@ -7,7 +7,7 @@ export default defineConfig({
   title: ' ',
   titleTemplate: 'وبلاگ',
   description: '',
-  // ignoreDeadLinks: true,
+  ignoreDeadLinks: true,
   themeConfig: {
     //   siteTitle: '',
     //   lastUpdatedText: 'آخرین بروز رسانی',
