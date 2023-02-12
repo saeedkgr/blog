@@ -1,4 +1,10 @@
-![bing logo](./bing.jfif)
+![ar war](./ai_war.jpeg){.aiWarImge}
+
+<style scoped>
+.aiWarImge {
+  display: inline; 
+}
+</style>
 
 # جنگ هوش مصنوعی
 
@@ -6,7 +12,7 @@
 در تاریخ 1401/11/19
 
 [لینک اتاق](https://www.clubhouse.com/room/PGpqpg2b?utm_medium=ch_room_xerc&utm_campaign=W5lC4aC-TBoT2kPIh5LLmg-584798)
-بخش مربوط به هوش مصنوعی از زمان 1:05:55 تا 1:20:30
+(بخش مربوط به هوش مصنوعی از زمان 1:05:55 تا 1:20:30)
 
 ## رونمایی مایکروسافت از بینگ
 
@@ -46,7 +52,9 @@ microsoft clippy and office assitant that discontinued
 
 ## دانلود نسخه آزمایشی مایکروسافت اج
 
-از این [لینک](https://www.microsoftedgeinsider.com/en-us/download)
+از این [لینک](https://www.microsoft.com/en-us/edge/download?form=MA13FJ&irgwc=1&OCID=AID2200057_aff_7593_1243925&tduid=%28ir__bjoui09tgkkfb2fiyausrq0o1m2xce1svpp31y0n00%29%287593%29%281243925%29%28tv2R4u9rImY-4HJwmMAfG3JPTH.Ef4wSIQ%29%28%29&irclickid=_bjoui09tgkkfb2fiyausrq0o1m2xce1svpp31y0n00#preview&ranMID=24542&ranEAID=tv2R4u9rImY&ranSiteID=tv2R4u9rImY-4HJwmMAfG3JPTH.Ef4wSIQ&epi=tv2R4u9rImY-4HJwmMAfG3JPTH.Ef4wSIQ)
 نسخه Dev Channel رو نصب کنید و از آیکون bing در صف انتظار قرار بگیرین
 
 ## [راهنمای درست کردن کالکشن در Edge](./edgeHowToAddCollection/)
+
+## [ویکس کتاب راهی که در پیش است](<https://en.wikipedia.org/wiki/The_Road_Ahead_(Gates_book)>)

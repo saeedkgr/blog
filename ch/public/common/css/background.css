@@ -7,15 +7,15 @@ header,
 .VPNavBarTitle {
   background-image: url('/common/images/double-bubble-outline.jpg') !important;
 }
-.nobgi {
-  @apply bg-gray-50 !important;
-}
 /* .vp-doc {
   @apply bg-white !important;
 } */
+/* .nobgi {
+  @apply bg-gray-50 !important;
+}
 .danger {
   @apply bg-red-50 !important;
 }
 .warning {
   @apply bg-gray-50 !important;
-}
+} */
