@@ -1,10 +1,4 @@
-![ar war](./ai_war.jpeg){.aiWarImge}
-
-<style scoped>
-.aiWarImge {
-  display: inline; 
-}
-</style>
+![ar war](./ai_war.jpeg)
 
 # جنگ هوش مصنوعی
 
