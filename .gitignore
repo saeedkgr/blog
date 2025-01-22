@@ -1,8 +1,24 @@
-node_modules/
-yarn-error.log
-# yarn.lock --comment out for github paged
-package-lock.json
+# Nuxt dev/build outputs
+.output
+.data
+.nuxt
+.nitro
+.cache
+dist
 
-.vite/
-ch/.vitepress/dist/ 
-ch/.vitepress/cache/ 
+# Node dependencies
+node_modules
+
+# Logs
+logs
+*.log
+
+# Misc
+.DS_Store
+.fleet
+.idea
+
+# Local env files
+.env
+.env.*
+!.env.example
