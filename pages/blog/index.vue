@@ -6,7 +6,7 @@ const { data: posts } = await useAsyncData('blog-posts', () =>
 
 <template>
   <div>
-    <h1>Blog</h1>
+    <h1>وبلاگ</h1>
     <ul>
       <li v-for="post in posts" :key="post.id">
         <NuxtLink :to="post.path">{{ post.title }}</NuxtLink>

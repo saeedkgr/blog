@@ -1,0 +1,31 @@
+@import './fonts.css';
+@import './background.css';
+/* fonts */
+body {
+  font-family: IRANSans !important;
+  font-weight: 300;
+  direction: rtl;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+textarea {
+  font-family: IRANSans !important;
+}
+h1 {
+  font-weight: bold;
+}
+/* fonts */
+
+:root {
+  /* --vp-layout-max-width: 1440px; */
+  /* --vp-sidebar-width: 100px; */
+}
+
+.ltr {
+  direction: ltr;
+}
