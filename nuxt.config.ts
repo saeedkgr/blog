@@ -7,7 +7,7 @@ export default defineNuxtConfig({
     content: {
       database: {
         type: 'd1',
-        binding: 'saeedkgr-weblog',
+        binding: '8fad7ac4-853e-49f2-9b0c-b9cccdfef7fb',
       },
     },
     nitro: {
