@@ -3,12 +3,10 @@ export default defineNuxtConfig({
   compatibilityDate: '2024-11-01',
   css: ['~/assets/css/main.css'],
   modules: ['@nuxt/content'],
-  $production: {
-    content: {
-      database: {
-        type: 'd1',
-        binding: 'saeedkgr-weblog',
-      },
+  content: {
+    database: {
+      type: 'd1',
+      binding: 'saeedkgr-weblog',
     },
   },
   devtools: { enabled: true },
