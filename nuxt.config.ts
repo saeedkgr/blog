@@ -10,12 +10,7 @@ export default defineNuxtConfig({
         binding: '8fad7ac4-853e-49f2-9b0c-b9cccdfef7fb',
       },
     },
-    nitro: {
-      prerender: {
-        autoSubfolderIndex: false,
-      },
-    },
   },
   devtools: { enabled: true },
-  // experimental: { appManifest: false },
+  experimental: { appManifest: false },
 })
