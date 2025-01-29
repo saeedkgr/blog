@@ -7,7 +7,7 @@ const { data: post } = await useAsyncData(`blog-${path}`, () => {
 </script>
 
 <template>
-  <div dir="rtl">
+  <div>
     <ContentRenderer :value="post" v-if="post" />
     <div v-else>error loading {{ path }}</div>
   </div>

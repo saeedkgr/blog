@@ -1,0 +1,29 @@
+/* @import 'tailwindcss'; */
+
+@layer theme, base, components, utilities;
+@import 'tailwindcss/theme.css' layer(theme);
+/* @import "tailwindcss/preflight.css" layer(base); */ /* to disable preflight */
+@import 'tailwindcss/utilities.css' layer(utilities);
+
+@custom-variant dark (&: where(.dark, .dark *));
+
+@utility container {
+  margin-inline: auto;
+  padding-inline: 2rem;
+}
+
+@layer base {
+  h1 {
+    font-size: var(--text-2xl);
+  }
+  h2 {
+    font-size: var(--text-xl);
+  }
+  h3 {
+    font-size: var(--text-lg);
+  }
+  a {
+    color: var(--color-blue-600);
+    text-decoration-line: underline;
+  }
+}

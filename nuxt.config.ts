@@ -1,8 +1,9 @@
+import tailwindcss from '@tailwindcss/vite'
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   ssr: false,
   compatibilityDate: '2024-11-01',
-  css: ['~/assets/css/main.css'],
+  css: ['~/assets/css/tw.css', '~/assets/css/main.css'],
   modules: ['@nuxt/content'],
   $production: {
     content: {
@@ -21,5 +22,8 @@ export default defineNuxtConfig({
     '/': { prerender: true },
   },
   devtools: { enabled: true },
+  vite: {
+    plugins: [tailwindcss()],
+  },
   experimental: { appManifest: false },
 })

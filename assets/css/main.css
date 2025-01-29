@@ -1,11 +1,14 @@
 @import '../fonts/fonts.css';
 @import './background.css';
+@reference './tw.css';
 /* fonts */
+
 body {
   font-family: IRANSans !important;
   font-weight: 300;
   direction: rtl;
 }
+
 h1,
 h2,
 h3,
@@ -28,4 +31,10 @@ h1 {
 
 .ltr {
   direction: ltr;
+}
+
+html,
+body,
+#__nuxt {
+  @apply h-[99%] w-[99%];
 }
