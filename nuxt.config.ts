@@ -1,5 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+  ssr:false,
   compatibilityDate: '2024-11-01',
   css: ['~/assets/css/main.css'],
   modules: ['@nuxt/content'],
@@ -15,6 +16,9 @@ export default defineNuxtConfig({
         autoSubfolderIndex: false,
       },
     },
+  },
+  routeRules: {
+    '/': { prerender: true }
   },
   devtools: { enabled: true },
   experimental: { appManifest: false },
