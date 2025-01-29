@@ -1,6 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  //ssr:false,
+  ssr: false,
   compatibilityDate: '2024-11-01',
   css: ['~/assets/css/main.css'],
   modules: ['@nuxt/content'],
@@ -18,7 +18,7 @@ export default defineNuxtConfig({
     },
   },
   routeRules: {
-    '/': { prerender: true }
+    '/': { prerender: true },
   },
   devtools: { enabled: true },
   experimental: { appManifest: false },
